@@ -1,0 +1,51 @@
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+// .cover {
+// background-image:
+// // linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+// url("../assets/img/cover.png");
+// // background-color: aquamarine;
+// background-size: auto;
+// background-repeat: no-repeat;
+// background-position: top left;
+// align-self: start;
+
+// }
+body h1 {
+  position: absolute;
+  top: 1em;
+  text-align: center;
+
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  // right: 50%;
+}
+.ctn {
+  display: flex;
+}
+.ctn-left {
+  margin: 0 auto;
+  align-self: center;
+}
+
+.contact img {
+    width: 200px;
+}
+.ctn-left h2 {
+    text-align: center;
+}
+.contact .wechat {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.contact .email {
+    margin-top: 5em;
+    align-items: center;
+}
