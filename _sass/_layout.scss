@@ -1,6 +1,6 @@
 body {
   height: 100%;
-  overflow: hidden;
+//   overflow: hidden;
 }
 
 // .cover {
@@ -14,6 +14,15 @@ body {
 // align-self: start;
 
 // }
+.cover {
+  width: 50%;
+  height: 100%;
+  //   background-image:
+  // linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  // url("../assets/img/cover.png");
+  // background-color: aquamarine;
+  //   background-size: auto;
+}
 body h1 {
   position: absolute;
   top: 1em;
@@ -28,24 +37,29 @@ body h1 {
 .ctn {
   display: flex;
 }
-.ctn-left {
+
+.ctn-right {
   margin: 0 auto;
   align-self: center;
+  flex: 1;
 }
-
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .contact img {
-    width: 200px;
+  width: 200px;
 }
-.ctn-left h2 {
-    text-align: center;
+.ctn-right h2 {
+  text-align: center;
 }
 .contact .wechat {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 .contact .email {
     margin-top: 5em;
-    align-items: center;
 }
