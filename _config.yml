@@ -20,6 +20,8 @@
 
 # Build settings
 #theme: minima
+name: ""
+title: null
 sass:
   style: compressed
 # Exclude from processing.
