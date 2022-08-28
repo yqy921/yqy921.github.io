@@ -60,14 +60,11 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 **隐私政策**
 
 
-gaiusyang 将ChineseStroke 应用程序构建为[开源/免费/免费增值/广告支持/商业] 应用程序。本服务由 gaiusyang 免费提供，旨在按原样使用。
+gaiusyang 将汉字笔画 应用程序构建为[开源/免费/免费增值/广告支持/商业] 应用程序。本服务由 gaiusyang 免费提供，旨在按原样使用。
 
 如果有人决定使用我的服务，则此页面用于通知访问者有关我收集、使用和披露个人信息的政策。
 
