@@ -27,10 +27,8 @@ ChineseStroke 应用程序存储和处理您提供给我们的个人数据，以
 
 如果您对我的条款和条件有任何疑问或建议，请随时通过 gaiusyangapp@gmail.com 与我联系。
 
-<br></br>
-<br></br>
-<br></br>
-
+ <br/><br/>
+ <br/><br/>
 
 **Terms & Conditions**
 
