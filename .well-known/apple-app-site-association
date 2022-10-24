@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "M3TQF647P9.yangqiu.tally"
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
